@@ -1,0 +1,32 @@
+MaterialDef Tiles {
+
+    MaterialParameters {
+        Texture2D Texture
+		Texture2D Mask
+		Texture2D Overlay
+		Texture2D NormalMap
+        Float Shininess : 0
+        Color Color (Color)
+    }
+	Technique {
+		LightMode MultiPass
+	
+        VertexShader GLSL100: MatDefs/Terrain/Tiles.vert
+        FragmentShader GLSL100: MatDefs/Terrain/Tiles.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+            WorldViewMatrix
+            ViewMatrix
+			Resolution
+        }
+
+        Defines {
+            HAS_TEXTURE : Texture
+            HAS_MASK : Mask
+			HAS_OVERLAY : Overlay
+			HAS_NORMALMAP : NormalMap
+            HAS_COLOR : Color
+        }
+    }
+}

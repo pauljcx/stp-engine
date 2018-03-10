@@ -1,0 +1,29 @@
+MaterialDef SubTiles {
+
+    MaterialParameters {
+        Texture2D Texture
+		Texture2D Mask
+		Texture2D NormalMap
+        Float Shininess : 0
+        Color Color (Color)
+    }
+	Technique {
+		LightMode MultiPass
+	
+        VertexShader GLSL100: MatDefs/Terrain/Tiles.vert
+        FragmentShader GLSL100: MatDefs/Terrain/SubTiles.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+            WorldViewMatrix
+            ViewMatrix
+        }
+
+        Defines {
+            HAS_TEXTURE : Texture
+            HAS_MASK : Mask
+			HAS_NORMALMAP : NormalMap
+            HAS_COLOR : Color
+        }
+    }
+}

@@ -1,0 +1,33 @@
+MaterialDef HeightTerrain {
+
+    MaterialParameters {
+        Texture2D Texture0
+		Texture2D Texture1
+		Texture2D HeightMap
+		Vector2 CenterPoint
+        Float Shininess : 0
+        Color Color (Color)
+    }
+	Technique {
+		LightMode MultiPass
+	
+        VertexShader GLSL100: Shaders/HeightTerrain.vert
+        FragmentShader GLSL100: Shaders/HeightTerrain.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+            WorldViewMatrix
+			WorldMatrix
+			NormalMatrix
+            ViewMatrix
+        }
+
+        Defines {
+            HAS_TEXTURE0 : Texture0
+            HAS_TEXTURE1 : Texture1
+			HAS_HEIGHTMAP : HeightMap
+			HAS_CENTERPOINT : CenterPoint
+            HAS_COLOR : Color
+        }
+    }
+}

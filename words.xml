@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+	<object class="Word">
+		<param name="Text" class="String">name</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">designation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">father</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">relation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">the</param>
+		<param name="Type" class="String">article</param>
+		<param name="WordClass" class="String">definite</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">an</param>
+		<param name="Type" class="String">article</param>
+		<param name="WordClass" class="String">indefinite</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">a</param>
+		<param name="Type" class="String">article</param>
+		<param name="WordClass" class="String">indefinite</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">for</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">and</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">infer inclusion</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">nor</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">but</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">or</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">infer choice</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">yet</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">so</param>
+		<param name="Type" class="String">conjuction</param>
+		<param name="WordClass" class="String">none</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">who</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">whose</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">whom</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">which</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">what</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">how</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">explanation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">why</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">reason</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">when</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">time</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">where</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interrogative</param>
+		<param name="Description" class="String">place</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">that</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">those</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">this</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">these</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">i</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">speaker</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">my</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">speaker</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">mine</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">speaker</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">me</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">speaker</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">he</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">male-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">his</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">male-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">him</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">male-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">she</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">female-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">hers</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">female-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">her</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">female-person</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">it</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">its</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">noun</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">they</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">people</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">their</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">people</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">them</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">objective</param>
+		<param name="Description" class="String">people</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">you</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">nominative</param>
+		<param name="Description" class="String">self</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">your</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">self</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">yours</param>
+		<param name="Type" class="String">pronoun</param>
+		<param name="WordClass" class="String">possessive</param>
+		<param name="Description" class="String">self</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">is</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">possess</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">has</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">possess</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">have</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">possess</param>
+		<param name="Properties" class="String"></param>
+	</object>	
+	<object class="Word">
+		<param name="Text" class="String">having</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">possess</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">had</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">possess</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">be</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">being</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">been</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">am</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">are</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">was</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">were</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">do</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">doing</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">done</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">auxiliary</param>
+		<param name="Description" class="String">describe</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">should</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">obligation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">shall</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">obligation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">will</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">permission</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">would</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">permission</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">could</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">able</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">can</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">able</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">must</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">obligation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">may</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">modal</param>
+		<param name="Description" class="String">obligation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">know</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">say</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">said</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">tell</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">see</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">seen</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">look</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">search</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">hear</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">heard</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">touch</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">feel</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">felt</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">find</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">search</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">found</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">search</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">live</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">past-particible</param>
+		<param name="Description" class="String">search</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">smell</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">sensory</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">go</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">spacial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">going</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">spacial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">gone</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">spacial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">help</param>
+		<param name="Type" class="String">verb</param>
+		<param name="WordClass" class="String">action</param>
+		<param name="Description" class="String">assist</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">hello</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">greeting</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">hi</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">greeting</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">goodbye</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">closing</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">bye</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">closing</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">certainly</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=true</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">definitely</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=true</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">absolutely</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=true</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">sure</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=true</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">yes</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=true</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">no</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=false</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">not</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=false</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">never</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">interjection</param>
+		<param name="Description" class="String">affirmation</param>
+		<param name="Properties" class="String">boolean=false</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">again</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">repeat</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">around</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">today</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">present</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">tomorrow</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">future</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">soon</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">future</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">later</param>
+		<param name="Type" class="String">adverb</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">after</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">afternoon</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">middle</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">day</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">present</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">night</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">end</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">evening</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">end</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">morning</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">temporal</param>
+		<param name="Description" class="String">beggning</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">good</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">positive</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">nice</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">positive</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">great</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">positive</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">bad</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">negative</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">familiar</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String"></param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">sky</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">place</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">bird</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">book</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">glass</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">tree</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">color</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">none</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">chance</param>
+		<param name="Type" class="String">noun</param>
+		<param name="WordClass" class="String">thing</param>
+		<param name="Description" class="String">probability</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">?</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">punctuation</param>
+		<param name="Description" class="String">question</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">.</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">punctuation</param>
+		<param name="Description" class="String">period</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">,</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">sperator</param>
+		<param name="Description" class="String">comma</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">!</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">punctuation</param>
+		<param name="Description" class="String">exclamation</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">+</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">operand</param>
+		<param name="Description" class="String">add</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">-</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">operand</param>
+		<param name="Description" class="String">subtract</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">*</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">operand</param>
+		<param name="Description" class="String">multiply</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">/</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">operand</param>
+		<param name="Description" class="String">divide</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">=</param>
+		<param name="Type" class="String">symbol</param>
+		<param name="WordClass" class="String">operand</param>
+		<param name="Description" class="String">equality</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">red</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=255,g=0,b=0</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">green</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=0,g=255,b=0</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">blue</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=0,g=0,b=255</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">yellow</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=255,g=255,b=0</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">cyan</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=0,g=255,b=255</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">magenta</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=255,g=0,b=255</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">white</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=255,g=255,b=255</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">black</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">descriptive</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">r=0,g=0,b=0</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">bright</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">operand=greater</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">dark</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">color</param>
+		<param name="Properties" class="String">operand=lesser</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">far</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">distance</param>
+		<param name="Properties" class="String">operand=greater</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">near</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">distance</param>
+		<param name="Properties" class="String">operand=lesser</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">large</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">size</param>
+		<param name="Properties" class="String">operand=greater</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">small</param>
+		<param name="Type" class="String">adjective</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">size</param>
+		<param name="Properties" class="String">operand=lesser</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">about</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">define</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">in</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">out</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">on</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">at</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">by</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String"></param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">over</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String">operand=greater</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">under</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">spatial</param>
+		<param name="Properties" class="String">operand=lesser</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">before</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">temporal</param>
+		<param name="Properties" class="String">operand=lesser</param>
+	</object>
+	<object class="Word">
+		<param name="Text" class="String">after</param>
+		<param name="Type" class="String">preposition</param>
+		<param name="WordClass" class="String">relational</param>
+		<param name="Description" class="String">temporal</param>
+		<param name="Properties" class="String">operand=greater</param>
+	</object>
+</words>

@@ -1,0 +1,24 @@
+MaterialDef Fog {
+ 
+MaterialParameters {
+Int NumSamples
+Int NumSamplesDepth
+Texture2D Texture
+Texture2D DepthTexture
+Int FogMode;
+Vector4 FogColor;
+Float FogDensity;
+Float FogStartDistance;
+Float FogEndDistance;
+Boolean ExcludeSky : false
+}
+ 
+Technique {
+VertexShader GLSL100:   Common/MatDefs/Post/Post.vert
+FragmentShader GLSL100: Shaders/Fog.frag
+ 
+WorldParameters {
+WorldViewProjectionMatrix
+}
+}
+}

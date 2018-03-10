@@ -1,0 +1,29 @@
+MaterialDef Gui {
+
+    MaterialParameters {
+        Texture2D Texture
+        Color Color (Color)
+        Boolean VertexColor (UseVertexColor)
+    }
+
+    Technique {
+        VertexShader GLSL100: Shaders/Gui.vert
+        FragmentShader GLSL100: Shaders/Gui.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+			NormalMatrix
+        }
+
+        Defines {
+            TEXTURE : Texture
+            VERTEX_COLOR : VertexColor
+        }
+		
+		 ForcedRenderState {
+            FaceCull Back
+            DepthTest On
+            DepthWrite On
+        }
+    }
+}
